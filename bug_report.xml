@@ -2,15 +2,15 @@
 <bugreport>
      <ID>478</ID>
      <Severity>Minor</Severity>
-     <Environment>Windows 11 Chrome 114</Enviroment>
-     <Titl>Text isn_t translated on Quiclinks menu</Title>
+     <Environment>Windows 11 Chrome 114</Environment>
+     <Title>Text isn_t translated on Quiclinks menu</Title>
      <Steps> 
-          <s1>Navigate to Capital.com</s1
+          <s1>Navigate to Capital.com</s1>
           <s2>Select Language Deutsch</s2>
           <s3>Look at the bar of [Quicklinks menu]</s3>
           <s4>Look at the text Desktop Trading</s4>
       </Steps>
-      <ExpectedResult>All text on this bar should be traslated into Deutsch</ExpectedResuls>
+      <ExpectedResult>All text on this bar should be traslated into Deutsch</ExpectedResult>
       <ActualResult>The text Desktop Trading and name of the menu Quicklinks are written in English</ActualResult>
       <Link></Link>
- </bureport>
+ </bugreport>
